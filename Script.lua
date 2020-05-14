@@ -1,4 +1,4 @@
-local model = game:GetService("InsertService"):LoadAsset(59873566)
+local model = game:GetService("InsertService"):LoadAsset(58159226)
 model.Parent = workspace	
 for i,v in pairs (model:GetDescendants()) do	
 if v:IsA("Part") then	
